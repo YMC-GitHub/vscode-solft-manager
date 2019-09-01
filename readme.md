@@ -1,14 +1,15 @@
-# install or uninstall vscode in win with batch
+# 在win系统中通过bat脚本的方式下载/安装 vscode
 
-#### install
-double click the file `install.bat`
+#### 安装
+
+鼠标左键双击文件 `install.bat`
 
 
-#### uninstall 
+#### 卸载 
 
-double click the file `uninstall.bat`
+鼠标左键双击文件 `uninstall.bat`
 
-#### lang
+#### 语言
 
-read chinese docs, click [here](./readme.md)
-read english docs, click [here](./readme-en.md)
+查看中文说明，请点击[这里](./readme-zh.md)
+查看英文说明，请点击[这里](./readme-en.md)
